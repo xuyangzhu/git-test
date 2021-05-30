@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("Hello Java!");
         System.out.println("hot-fix 分支进行修改！2021年5月30日 16:32:48");
         System.out.println("master 分支进行修改！2021年5月30日 16:37:08");
+        System.out.println("hot-fix 分支进行修改！2021年5月30日 16:36:12");
     }
 }
