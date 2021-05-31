@@ -18,5 +18,6 @@ public class GitTest {
         System.out.println("push code!");
         
         System.out.println("远程库中进行修改！");
+        System.out.println("远程库中进行修改！2");
     }
 }
